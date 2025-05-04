@@ -1,1 +1,1 @@
-# Arquitetura_L-gica_e_F-sica
+# Arquitetura_Lógica_e_Física
